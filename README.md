@@ -14,7 +14,7 @@ I also attempted to follow the scout role by:
     - consolidating CSS selectors and properties when appropriate
 ```
 
-![screenshot of horiseon website side by side view with code](./screenshot.png)
+![screenshot of horiseon website](./screenshot.png)
 
 See below for challenge criteria.
 
