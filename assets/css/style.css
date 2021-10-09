@@ -1,3 +1,4 @@
+/*universal selector - applies to all*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*header styling*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ body {
     color: #d9dcd6;
 }
 
+/*header navigation styling*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +52,10 @@ a {
 p {
     font-size: 16px;
 }
+/*end of header styling*/
 
+
+/*hero styling*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +64,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*end of hero styling*/
 
+/*main content images*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +83,7 @@ p {
     margin-left: 20px;
 }
 
+/*right side banner styling*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +142,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*End of right side banner styling*/
 
+/*main content styling*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +172,7 @@ p {
     color: #ffffff;
 }
 
+/* main content images*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -173,6 +185,7 @@ p {
     max-height: 200px;
 }
 
+/*main content header styling*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -188,6 +201,7 @@ p {
     font-size: 36px;
 }
 
+/*Footer styling*/
 .footer {
     padding: 30px;
     clear: both;
