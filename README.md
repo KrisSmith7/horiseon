@@ -1,6 +1,7 @@
 # 01 HTML, CSS, and Git: Code Refactor
 For this week's challenge, my goal was to refactor an existing webpage to make it accessible and to improve SEO.
 
+```
 I attempted this by:
     - updating title of web page "website" to "Horiseon"
     - directing the "Search Engine Optimization" link to the appropriate section of the page
@@ -11,6 +12,7 @@ I also attempted to follow the scout role by:
     - removing </img> in cost management - this is a self closing tag
     - adding comments in HTML and CSS code
     - consolidating CSS selectors and properties when appropriate
+```
 
 ![screenshot of horiseon website side by side view with code](./screenshot.png)
 
